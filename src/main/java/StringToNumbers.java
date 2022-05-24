@@ -8,7 +8,6 @@ public class StringToNumbers {
      * Test Data:
      * “1, 2, 3, 4, 5” → {1, 2, 3, 4, 5}
      * (Без форматирования)
-     * @return
      */
 
 
